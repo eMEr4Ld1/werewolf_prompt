@@ -6,11 +6,6 @@ AIを活用した人狼ゲーム用プロンプトです。
 
 このプロンプトを使用すると、Gemini、ChatGPT、ClaudeなどのLLMが厳格で公平なGMとして人狼ゲームを進行します。
 
-## 推奨LLM
-上から順に推奨
-Claude 4.5 Opus (今のところこのモデルの進行が一番スムーズに見える) 
-Gemini 3 pro 
-ChatGPT 5.2 (thinkingモード)
 
 ## 特徴
 
