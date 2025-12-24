@@ -8,8 +8,8 @@ AIを活用した人狼ゲーム用プロンプトです。
 
 ## 推奨LLM
 
+Gemini 3 pro (今のところこのモデルの進行が一番スムーズかも)
 ChatGPT 5.2 (thinkingモード)
-Gemini 3 pro
 
 ## 特徴
 
